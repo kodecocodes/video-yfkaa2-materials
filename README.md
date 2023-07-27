@@ -4,7 +4,7 @@ This repo contains all the downloadable materials and projects associated with t
 
 Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
 
-## Release History n
+## Release History
 
 | Branch                                                                                  | Version | Release Date |
 | --------------------------------------------------------------------------------------- | :-----: | :----------: |
